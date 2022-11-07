@@ -14,7 +14,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
-<img src="./.github/preview.jpg" alt="Calendário da NLW Copa"/>
+<img src="./.github/preview.png" alt="Calendário da NLW Copa"/>
 <br>
 
 <p align="center">
@@ -35,7 +35,7 @@ O Calendário é um componente que mostra os jogos da Copa do Mundo 2022.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/RAXF7vDhX8md3fqiaMBkY7/Calend%C3%A1rio-de-Jogos-(Community)?node-id=301%3A1812). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
